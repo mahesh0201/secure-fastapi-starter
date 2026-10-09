@@ -31,7 +31,7 @@ test suite. Every control is covered by a test and mapped to STRIDE and the OWAS
 ## Run locally
 
 ```bash
-git clone https://github.com/<your-username>/secure-fastapi-starter.git
+git clone https://github.com/mahesh0201/secure-fastapi-starter.git
 cd secure-fastapi-starter
 python -m venv .venv && source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements-dev.txt
